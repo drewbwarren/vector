@@ -1,0 +1,2 @@
+vector_joystick
+-DCATKIN_DEVEL_PREFIX=/home/drewbwarren/Documents/fun/vector/vector_ws/devel -DCMAKE_INSTALL_PREFIX=/home/drewbwarren/Documents/fun/vector/vector_ws/install -G Unix Makefiles

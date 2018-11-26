@@ -1,0 +1,8 @@
+prefix=/home/drewbwarren/Documents/fun/vector/vector_ws/devel
+
+Name: vector_joystick
+Description: Description of vector_joystick
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/drewbwarren/Documents/fun/vector/vector_ws/devel/lib 
+Requires: 
