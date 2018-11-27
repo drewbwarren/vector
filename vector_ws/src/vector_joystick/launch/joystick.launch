@@ -1,0 +1,7 @@
+<launch>
+
+    <node name="joy_node" pkg="joy" type="joy_node" />
+
+    <node name="vectorJS" pkg="vector_joystick" type="vectorJS.py" output="screen" />
+
+</launch>
